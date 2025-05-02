@@ -1,0 +1,28 @@
+#home {
+    color: black;
+    text-align: center;
+}
+
+.sub {
+    
+    display: inline-block;
+    
+    text-align: center;
+}
+
+#one {
+    text-align: center;
+    font-size: 60px;
+    color: rgb(5, 7, 6);
+    background-color: rgb(199, 190, 180);
+    margin: 50px;
+    border: black solid;
+    border-style: outset;
+    padding: 40px;
+
+}
+
+.zero {
+    font-size: large;
+    color: rgb(0, 0, 0);
+}
